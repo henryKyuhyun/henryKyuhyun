@@ -3,6 +3,9 @@
 
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Kyuhyun_Github&fontSize=90" />  
+
+<p>안녕하세요 다양한 기술을 탐구하고 새로운 것을 배우는 데 열정을 가진 개발자 박규현입니다</p>
+<p>Hello I'm Kyuhyun Park, a developer with passion for exploring various technologies and learning new things</p>
 <h2>🔧 Front</h2>
 
 <div>
@@ -39,5 +42,6 @@
 
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryKyuhyun&show_icons=true&theme=radical)
 
 </div>
